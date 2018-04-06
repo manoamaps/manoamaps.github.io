@@ -1,14 +1,11 @@
 # Table of contents
 
-Project Description:
+Project Description: Manoa parking app that will make parking on UH easier. First allows users to input their owned parking passes into a profile.  Then the user could use an interactive map that will allow them to see where they can park at which times of the day.  App will also have a system where users can input open parking spaces allowing for other users to know where there is open parking.
 
+Team Members: Andrew Kurano, Jeremy Nagahama, Damien Lim
 
-* [Development history](#development-history)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Data model development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
-  * [Milestone 4: Authentication](#milestone-4-authentication)
-  * [Milestone 5: Administration](#milestone-5-administration)
+Milestone 1:
+ Setup project and github, presented idea to class.
 
 
 
