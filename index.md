@@ -6,6 +6,11 @@ Team Members: Andrew Kurano, Jeremy Nagahama, Damien Lim
 
 Milestone 1:
  Setup project and github, presented idea to class.
+ 
+ManoaMaps Github:
+ https://github.com/manoamaps
+ 
+
 
 
 
