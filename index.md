@@ -23,7 +23,7 @@ Team Members: Andrew Kurano, Jeremy Nagahama, Damien Lim
  4. Get basic MongoDB running.
   * Setup to accomodate parking passes, with pass having the time it's allotted.
   
-  ![Alt text](/imgs/Add.jpg)
+![Alt text](/imgs/Add.jpg?raw=true "asdf")
 
 
 # Milestone 2:
