@@ -23,8 +23,14 @@ Team Members: Andrew Kurano, Jeremy Nagahama, Damien Lim
  4. Get basic MongoDB running.
   * Setup to accomodate parking passes, with pass having the time it's allotted.
   
-![Alt text](/imgs/Add.png)
+ Add Passes Page
+![Add Passes Page](/imgs/Add.png)
 
+Landing Page
+![Add Passes Page](/imgs/Landing.png)
+
+Map Passes Page
+![Add Passes Page](/imgs/Map.png)
 
 # Milestone 2:
 1. Integrate Map with DB so that map is not hard coded.
