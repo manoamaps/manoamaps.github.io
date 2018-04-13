@@ -16,12 +16,12 @@ Team Members: Andrew Kurano, Jeremy Nagahama, Damien Lim
 # Milestone 1:
  1. Get basic Meteor template running.
  2. Get basic Map component running 
- ..* Shows Map of Manoa
- ..* Shows current time in map, and what Pass you have.
- ..* Slider bar to adjust time.
+  * Shows Map of Manoa
+  * Shows current time in map, and what Pass you have.
+  * Slider bar to adjust time.
  3. Update Map picture when new parking rules apply  
  4. Get basic MongoDB running.
- ..* Setup to accomodate parking passes, with pass having the time it's allotted.
+  * Setup to accomodate parking passes, with pass having the time it's allotted.
 
 
 # Milestone 2:
