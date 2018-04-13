@@ -1,10 +1,12 @@
 # Table of contents
 
-[GitHub Organization] (https://github.com/manoamaps/source)
-[Deployed app] (http://manoamaps.meteorapp.com/#/)
+[GitHub Organization](https://github.com/manoamaps/source)
 
-[M1 Project Page] (https://github.com/manoamaps/source/projects/1)
-[M2 Project Page] (https://github.com/manoamaps/source/projects/2)
+[Deployed app](http://manoamaps.meteorapp.com/#/)
+
+[M1 Project Page](https://github.com/manoamaps/source/projects/1)
+
+[M2 Project Page](https://github.com/manoamaps/source/projects/2)
 
 # Project Description
 Manoa parking app that will make parking on UH easier. First allows users to input their owned parking passes into a profile.  Then the user could use an interactive map that will allow them to see where they can park at which times of the day.  App will also have a system where users can input open parking spaces allowing for other users to know where there is open parking.
