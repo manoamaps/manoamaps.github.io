@@ -37,6 +37,20 @@ Map Passes Page
 2. Setup Better Landing Page
 
 
+Integration with DB
+![Add Passes Page](/imgs/mongo.png)
+
+# Community Feedback
+The application was popular amongst those we asked for feedback and they agreed it was something they might use. They said they particularly liked the slider feature so that it is more convenient for when they need to find parking at the current time of day. They said it could be improved by adding our planned feature of saying when a parking spot is open and/or having the slider start at the current time of day.The map itself was visually appealing and conveyed where parking was available to be clear.
+
+# Developer Guide
+ 1. Clone Git Repo
+ 2. Run Command "npm install"
+ 3. Run Command "meteor npm run start"
+ 4. Navigate to browser, enter in URL "locahost:3000"
+
+
+
 
 
 
