@@ -51,8 +51,11 @@ Map Passes Page
 Integration with DB
 ![Add Passes Page](/imgs/mongo.png)
 
-# Community Feedback
+# Initial User Study
 The application was popular amongst those we asked for feedback and they agreed it was something they might use. They said they particularly liked the slider feature so that it is more convenient for when they need to find parking at the current time of day. They said it could be improved by adding our planned feature of saying when a parking spot is open and/or having the slider start at the current time of day.The map itself was visually appealing and conveyed where parking was available to be clear.
+
+# User Study Part 2.
+After making finishing touches to app, and making it clear the steps, our users were much happier with the process. We had a night staff member who didn't even know that he was allowed to park at certain lots, and our app helped him show that. One user said she wished she had this freshmen year so she knew exactly where, but more importantly when, she could park. The only complaint was a user who wished he could fullscreen the map, as he was near-sighted.
 
 # Developer Guide
  1. Clone Git Repo
