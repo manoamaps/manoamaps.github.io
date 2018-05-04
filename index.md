@@ -43,9 +43,12 @@ Map Passes Page
 2. Have parking passes tie in to which image loads.
 
 # Guided Tour
- 1. Create Account (/imgs/1.png)
- 2. Add Pass to account (/imgs/2.png)
- 3. Map will show your passes, along with where you can park. (/imgs/3.png)
+ 1. Create Account 
+ ![Add Passes Page](/imgs/1.png)
+ 2. Add Pass to account 
+ ![Add Passes Page](/imgs/2.png)
+ 3. Map will show your passes, along with where you can park.
+ ![Add Passes Page](/imgs/3.png)
  4. Slider will let you change time, showing where you can park.
 
 Integration with DB
