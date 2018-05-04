@@ -8,6 +8,8 @@
 
 [M2 Project Page](https://github.com/manoamaps/source/projects/2)
 
+[M3 Project Page](https://github.com/manoamaps/source/projects/3)
+
 # Project Description
 Manoa parking app that will make parking on UH easier. First allows users to input their owned parking passes into a profile.  Then the user could use an interactive map that will allow them to see where they can park at which times of the day.  App will also have a system where users can input open parking spaces allowing for other users to know where there is open parking.
 
@@ -36,6 +38,15 @@ Map Passes Page
 1. Integrate Map with DB so that map is not hard coded.
 2. Setup Better Landing Page
 
+# Milestone 3:
+1. Finish editing maps so it looks professional.
+2. Have parking passes tie in to which image loads.
+
+# Guided Tour
+ 1. Create Account (/imgs/1.png)
+ 2. Add Pass to account (/imgs/2.png)
+ 3. Map will show your passes, along with where you can park. (/imgs/3.png)
+ 4. Slider will let you change time, showing where you can park.
 
 Integration with DB
 ![Add Passes Page](/imgs/mongo.png)
